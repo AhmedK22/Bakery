@@ -1,0 +1,215 @@
+
+*
+{
+    margin: 0px; 
+    padding: 0px;
+}
+*
+{
+    box-sizing: content-box;
+}
+.home
+{
+    background-image: url('images/drew-coffman-1872.jpg');
+    background-size: cover;
+    color: white;
+    overflow: auto;
+    height: 1000px;
+}
+.homecontent
+{
+    text-align: center;
+    margin-top:370px ;
+    font-size: 22px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+}
+h1
+{
+    margin: 20px 0px;
+    font-size: 60px;
+    font-family: 'Merriweather', serif;
+}
+.homecontent .butt
+{
+    padding: 20px;
+    margin: 18px 2px;
+    border: none;
+    border-radius: 6px;
+}
+.homecontent .prgra
+{
+    margin: 35px 0px;
+    font-weight: bold;
+}
+.homecontent .butt1
+{
+   background-color: rgb(122, 99, 69);
+}
+.homecontent .butt2
+{
+    background-color: white;
+    border: white;
+}
+.photo img
+{
+    margin: 70px 20px 70px 70px;
+    width: 600px;
+    height: 580;
+}
+.c
+{
+    float: right;
+    margin: 160px 30px;
+}
+.c h2{
+    margin: 20px 0px 30px;
+    font-size: 30px;
+    font-weight: lighter;
+}
+.c p 
+{
+    font-size: 17px;
+    color: gray;
+    line-height: 30px;
+}
+.clr
+{
+    clear: right;
+}
+.photo2
+{
+    background-color: rgb(243, 242, 242);
+}
+.photo2 img
+{
+    margin: 70px 30px 70px 40px;
+    width: 600px;
+    height: 500px;
+}
+.c2
+{
+    float:left;
+    margin: 160px 30px;
+}
+.c2 h2{
+    margin: 20px 0px 30px;
+    font-size: 30px;
+    font-weight: lighter;
+}
+.c2 p 
+{
+    font-size: 17px;
+    color: gray;
+    line-height: 30px;
+}
+.clr2
+{
+    clear: left;
+}
+.photo3
+ {
+    text-align: center;
+    margin: auto;
+    width: 90%;
+}
+.c3 h2{
+    margin: 80px 0px 5px;
+    font-size: 30px;
+    font-weight: lighter;
+}
+.c3 p
+{
+    font-size: 17px;
+    color: gray;
+    line-height: 30px;
+    margin: 0px 0px 40px 0px;
+}
+.pic
+{
+    float: left;
+    text-align: center;
+    width: 33.3333%;
+}
+.pic img
+{
+    width: 90%;
+}
+.pic h4 
+{
+    font-weight: lighter;
+    font-size: 20px;
+    margin: 20px 0px;
+}
+.pic p 
+{
+    font-size: 17px;
+    color: gray;
+    line-height: 30px;
+}
+.clr3
+{
+    clear: left;
+}    
+.backgr
+{
+    margin: 90px 0px 0px;
+    background-color: rgb(243, 242, 242);
+    overflow: auto;
+}
+.finish
+{
+    text-align: left;
+    float: left;
+}
+.finish h2
+{
+    font-size: 30px;
+    font-weight: lighter; 
+    padding:110px 20px 20px 70px ;
+}
+.finish p
+{
+    font-size: 17px;
+    color: gray;
+    line-height: 30px;
+    margin: 15px 20px 0px 70px;
+    line-height: 40px;
+}
+.finish iframe 
+{
+    padding: 70px 20px 90px 50px ;
+}
+.clr4
+{
+    clear: left;
+}
+.backgr1
+{
+    background-color:  #403d38;
+    height: 450px;
+    overflow: auto;
+}
+.backgr1 h4
+{
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+    padding: 60px 0px 20px 50px;
+}
+.backgr1 p 
+{
+    font-size: 17px;
+    color: gray;
+    line-height: 30px;
+    padding: 0px 0px 20px 50px;
+}
+.backgr1 .f1
+{
+    float:left;
+}
+.backgr1 .f2
+{
+    line-height: 50px;
+}
+
